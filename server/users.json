@@ -1,0 +1,9 @@
+[
+    { "user1": "A", "user2": "B", "weight": 3 },
+    { "user1": "A", "user2": "C", "weight": 1 },
+    { "user1": "B", "user2": "D", "weight": 2 },
+    { "user1": "C", "user2": "D", "weight": 1 },
+    { "user1": "C", "user2": "E", "weight": 1 },
+    { "user1": "D", "user2": "F", "weight": 4 },
+    { "user1": "F", "user2": "G", "weight": 5 }
+]
